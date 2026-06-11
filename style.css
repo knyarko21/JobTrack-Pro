@@ -1,0 +1,37 @@
+body{
+    font-family:Arial;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:12px;
+    text-align:center;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card h3{
+    color:#64748b;
+}
+
+.card p{
+    font-size:24px;
+    font-weight:bold;
+    color:#4f46e5;
+}
+
+.job-card{
+    background:white;
+    padding:15px;
+    border-radius:12px;
+    box-shadow:0 5px 10px rgba(0,0,0,0.1);
+    border-left:5px solid #4f46e5;
+}
+
+.job-card button{
+    margin-top:10px;
+    background:red;
+    color:white;
+    padding:5px 10px;
+    border-radius:6px;
+}
